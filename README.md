@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajexh
+- 👋 Hi, I’m @Rajesh
 - 👀 I’m interested in Web Devlopement
 - 🌱 I’m currently learning Lakshya Institute Of Technology
 - 💞️ I’m looking to collaborate on ... 
